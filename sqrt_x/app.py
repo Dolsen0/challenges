@@ -11,3 +11,5 @@ def mySqrt(x: int) -> int:
             end = middle - 1
     return end
 
+# O(log n) time complexity
+# O(1) space complexity
