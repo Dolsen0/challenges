@@ -11,5 +11,7 @@ def mySqrt(x: int) -> int:
             end = middle - 1
     return end
 
+# determines square root of number - rounds down if not a whole number
+
 # O(log n) time complexity
 # O(1) space complexity
